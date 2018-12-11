@@ -6,15 +6,15 @@ Abstract: For a typical medical research project based on observational data, se
 Table of Content:
 
 Manuscript Dec 11 2018.docx 	
-      A tutorial of usage of the proposed SAS macros with case study and code.
+- A tutorial of usage of the proposed SAS macros with case study and code.
       
 Case_Study_Data.asa7bdat
-	    The analytic SAS dataset for the case study
+- The analytic SAS dataset for the case study
     
 Case Study – BBISR SAS Macros.sas
-    	A complete analytic SAS code applies to the case study with detailed comments along the lines.
+- A complete analytic SAS code applies to the case study with detailed comments along the lines.
     
 List of SAS Macros
-      Each SAS macro has its user menu saved as the same file name but in Word, for example,
-	    DESCRIPTIVE V16.sas – SAS macro
-	    DESCRIPTIVE V16.docx – Word User Menu
+- Each SAS macro has its user menu saved as the same file name but in Word, for example,
+- DESCRIPTIVE V16.sas – SAS macro
+- DESCRIPTIVE V16.docx – Word User Menu
